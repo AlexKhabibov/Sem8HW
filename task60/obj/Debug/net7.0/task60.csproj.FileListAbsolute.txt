@@ -1,0 +1,15 @@
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 8. Двумерные массивы. Продолжение. Семинар 8/Sem8HW/task60/bin/Debug/net7.0/task60
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 8. Двумерные массивы. Продолжение. Семинар 8/Sem8HW/task60/bin/Debug/net7.0/task60.deps.json
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 8. Двумерные массивы. Продолжение. Семинар 8/Sem8HW/task60/bin/Debug/net7.0/task60.runtimeconfig.json
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 8. Двумерные массивы. Продолжение. Семинар 8/Sem8HW/task60/bin/Debug/net7.0/task60.dll
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 8. Двумерные массивы. Продолжение. Семинар 8/Sem8HW/task60/bin/Debug/net7.0/task60.pdb
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 8. Двумерные массивы. Продолжение. Семинар 8/Sem8HW/task60/obj/Debug/net7.0/task60.csproj.AssemblyReference.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 8. Двумерные массивы. Продолжение. Семинар 8/Sem8HW/task60/obj/Debug/net7.0/task60.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 8. Двумерные массивы. Продолжение. Семинар 8/Sem8HW/task60/obj/Debug/net7.0/task60.AssemblyInfoInputs.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 8. Двумерные массивы. Продолжение. Семинар 8/Sem8HW/task60/obj/Debug/net7.0/task60.AssemblyInfo.cs
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 8. Двумерные массивы. Продолжение. Семинар 8/Sem8HW/task60/obj/Debug/net7.0/task60.csproj.CoreCompileInputs.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 8. Двумерные массивы. Продолжение. Семинар 8/Sem8HW/task60/obj/Debug/net7.0/task60.dll
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 8. Двумерные массивы. Продолжение. Семинар 8/Sem8HW/task60/obj/Debug/net7.0/refint/task60.dll
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 8. Двумерные массивы. Продолжение. Семинар 8/Sem8HW/task60/obj/Debug/net7.0/task60.pdb
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 8. Двумерные массивы. Продолжение. Семинар 8/Sem8HW/task60/obj/Debug/net7.0/task60.genruntimeconfig.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 8. Двумерные массивы. Продолжение. Семинар 8/Sem8HW/task60/obj/Debug/net7.0/ref/task60.dll
